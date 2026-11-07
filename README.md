@@ -2,13 +2,24 @@
 
 I'll make a tutorial using C++. Note that I am using an outdated version of C++. It's C++98. However, this version is enough for you to learn Object-Oriented Programming
 
-### Installation
+### Using An Online Compiler
 
-Download DevC++ from this [link](https://sourceforge.net/projects/orwelldevcpp/). It has mingw which can easily compile simply just by executing.
+For beginners, installing an IDE may be a bit too complicated and hassle. Most people want to start coding early so I've decided to skip an IDE installation tutorial and head straight to using an online compiler.
+
+[Click this link for the online compiler](https://www.onlinegdb.com/online_c++_compiler) 
 
 ### Where To Learn
 
 [W3Schools](https://www.w3schools.com/cpp/default.asp) is a great resource to learn especially on C++. I suggest you work through this tutorial first. Upto classes.
+
+### Tips
+
+How do I actually learned how to code? My method is simple, I separate it into two.
+
+ - Memorize syntax
+ - Code analysis
+
+First, I memorize the syntax so I can code it on my own. Then I do code analysis by asking AI code snippets I don't understand.
 
 ## Basics
 
