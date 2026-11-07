@@ -6,6 +6,10 @@ I'll make a tutorial using C++. Note that I am using an outdated version of C++.
 
 Download DevC++ from this [link](https://sourceforge.net/projects/orwelldevcpp/). It has mingw which can easily compile simply just by executing.
 
+### Where To Learn
+
+[W3Schools](https://www.w3schools.com/cpp/default.asp) is a great resource to learn especially on C++. I suggest you work through this tutorial first. Upto classes.
+
 ## Basics
 
 I want you to focus on these things:
