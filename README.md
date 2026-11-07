@@ -52,4 +52,6 @@ while (condition)
 
 ### Object-Oriented Practice Problems
 
-1 
+To practice, click each link and practice them in DevC++. You must be able to code them on your own.
+
+[1 Parking Garage](https://github.com/SudoCold/NewToCoding-/blob/main/1ParkingGarage.cpp)
